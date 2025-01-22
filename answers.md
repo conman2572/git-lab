@@ -86,3 +86,9 @@ hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 Answer 12:
+yes, already up to date
+
+Answer 13:
+.		.git		README.md
+..		.gitignore
+
